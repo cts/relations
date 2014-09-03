@@ -1,6 +1,6 @@
 {
   "name": "relations",
-  "version": "0.8",
+  "version": "0.8.0",
   "main": "lib/index.js",
   "dependencies": {
     "cts/util": "*",
